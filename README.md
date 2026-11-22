@@ -1,12 +1,12 @@
 # Margalla Meal Prep
 
-**Student:** YOUR NAME | **Roll No:** YOUR ROLL | **Section:** YOUR SECTION | CS4032 Assignment 02
+**Student:** Muhammad Hamza Amir | **Roll No:** 23i-2111 | **Section:** CYS - C | CS4032 Assignment 02
 
 Fictional meal-prep business for university students in Islamabad (H-11, H-12, G-11, G-10, I-8). Browse meals, search/filter/sort, view details, build a cart, check out with a validated form, and get a simulated confirmation.
 
-- GitHub: PASTE_REPO_LINK
-- Live site: PASTE_VERCEL_LINK
-- Final commit: PASTE_HASH
+- GitHub: https://github.com/Hamzaa420/margalla-meal-prep
+- Live site: https://margalla-meal-prep.vercel.app
+- Final commit: See Report for hash.
 
 ## Commands
 ```
