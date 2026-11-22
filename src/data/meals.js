@@ -1,0 +1,13 @@
+// Local data: 10 meals, each with a stable id. `stock` = portions left today.
+export const meals = [
+  { id: 'm1', name: 'Chicken Biryani Box', emoji: '🍛', category: 'Rice', veg: false, price: 450, stock: 12, calories: 620, prep: '25 min', desc: 'Fragrant basmati rice layered with spiced chicken and raita.', ingredients: 'Basmati rice, chicken, yoghurt, biryani masala' },
+  { id: 'm2', name: 'Daal Chawal Bowl', emoji: '🍚', category: 'Rice', veg: true, price: 280, stock: 20, calories: 480, prep: '15 min', desc: 'Comforting yellow daal with steamed rice and a salad side.', ingredients: 'Masoor daal, rice, onion, cumin, cucumber' },
+  { id: 'm3', name: 'Chicken Karahi Plate', emoji: '🍗', category: 'Protein', veg: false, price: 520, stock: 8, calories: 540, prep: '20 min', desc: 'Tomato-ginger karahi with two rotis, high in protein.', ingredients: 'Chicken, tomato, ginger, green chilli, wheat roti' },
+  { id: 'm4', name: 'Chana Pulao Bowl', emoji: '🥘', category: 'Rice', veg: true, price: 320, stock: 15, calories: 510, prep: '20 min', desc: 'Chickpea pulao with mint chutney. Filling and budget friendly.', ingredients: 'Chickpeas, rice, whole spices, mint' },
+  { id: 'm5', name: 'Grilled Chicken Salad', emoji: '🥗', category: 'Protein', veg: false, price: 480, stock: 10, calories: 380, prep: '10 min', desc: 'Grilled chicken strips over greens with lemon-mint dressing.', ingredients: 'Chicken, lettuce, cucumber, lemon, mint' },
+  { id: 'm6', name: 'Aloo Gobi Wrap', emoji: '🌯', category: 'Wraps', veg: true, price: 260, stock: 18, calories: 430, prep: '10 min', desc: 'Spiced potato and cauliflower in a whole-wheat wrap.', ingredients: 'Potato, cauliflower, wheat wrap, coriander' },
+  { id: 'm7', name: 'Seekh Kebab Wrap', emoji: '🥙', category: 'Wraps', veg: false, price: 380, stock: 6, calories: 560, prep: '15 min', desc: 'Beef seekh kebab, onion and chutney in a paratha wrap.', ingredients: 'Beef mince, paratha, onion, tamarind chutney' },
+  { id: 'm8', name: 'Weekday Bundle (5 meals)', emoji: '📦', category: 'Bundles', veg: false, price: 1900, stock: 5, calories: 2600, prep: '25 min', desc: 'Mon-Fri lunches: biryani, karahi, daal, wrap and salad.', ingredients: 'Mixed - see individual meals' },
+  { id: 'm9', name: 'Veg Weekly Bundle (5 meals)', emoji: '🥬', category: 'Bundles', veg: true, price: 1400, stock: 4, calories: 2300, prep: '25 min', desc: 'Five vegetarian lunches rotating daal, pulao, wraps and sabzi.', ingredients: 'Mixed vegetarian - see individual meals' },
+  { id: 'm10', name: 'Protein Oats Jar', emoji: '🥣', category: 'Protein', veg: true, price: 220, stock: 14, calories: 350, prep: '5 min', desc: 'Overnight oats with milk, dates and almonds for early classes.', ingredients: 'Oats, milk, dates, almonds' }
+];
